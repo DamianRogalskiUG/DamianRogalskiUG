@@ -26,4 +26,5 @@ My technology stack:
 I have some experience with:
 - **Frontend**: Tailwind, Sklearn
 - **Backend**: C++, PHP, Django, Go, Java, Scala
+- **Databases**: PostgreSQL
 - **Tools $ Others**: Gherkin, Figma, AWS, Babel, Heroku
