@@ -19,11 +19,11 @@ I'm Damian, a passionate student of Computer Science with a love for coding and 
 
 My technology stack:
 - **Frontend**: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Sass, Bootstrap
-- **Backend**: Java, Python, Scala, Node.js, Express.js, Flask
+- **Backend**: Python, Node.js, Express.js, Flask
 - **Databases**: MongoDB, MySQL, Neo4j, T-SQL
 - **Tools & Others**: Git, GitHub, GitLab, Docker, Bash, Yarn, Npm
 
-I head some experience with:
+I have some experience with:
 - **Frontend**: Tailwind, Sklearn
-- **Backend**: C++, PHP, Django, Go
+- **Backend**: C++, PHP, Django, Go, Java, Scala
 - **Tools $ Others**: Gherkin, Figma, AWS, Babel, Heroku
