@@ -8,7 +8,7 @@ My technology stack:
 - **Databases**: MongoDB, MySQL, Neo4j, T-SQL
 - **Tools & Others**: Git, GitHub, GitLab, Docker, Bash, Yarn, Npm
 
-I have some contact with:
+I had some contact with:
 - **Frontend**: Tailwind, Sklearn
 - **Backend**: C++, PHP, Django, Go, Java, Scala
 - **Databases**: PostgreSQL
