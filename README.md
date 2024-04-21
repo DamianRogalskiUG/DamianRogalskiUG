@@ -9,7 +9,7 @@ My technology stack:
 - **Tools & Others**: Git, GitHub, GitLab, Docker, Bash, Yarn, Npm
 
 I had some contact with:
-- **Frontend**: Tailwind, Sklearn
+- **Frontend**: Tailwind
 - **Backend**: C++, PHP, Django, Go, Java, Scala
 - **Databases**: PostgreSQL
-- **Tools $ Others**: Gherkin, Figma, AWS, Babel, Heroku
+- **Tools $ Others**: Gherkin, Figma, AWS, Babel, Heroku, Sklearn
