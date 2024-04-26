@@ -12,4 +12,4 @@ I had some contact with:
 - **Frontend**: Tailwind
 - **Backend**: C++, PHP, Django, Go, Java, Scala
 - **Databases**: PostgreSQL
-- **Tools $ Others**: Gherkin, Figma, AWS, Babel, Heroku, Sklearn
+- **Tools & Others**: Gherkin, Figma, AWS, Babel, Heroku, Sklearn
