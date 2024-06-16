@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm Damian, a passionate student of Computer Science with a love for coding and creating innovative solutions. I'm always seeking new challenges and opportunities to expand my skills in web development, machine learning and Java. When I'm not typing away at my keyboard, you can find me exploring the outdoors or diving into a great movie. Let's connect and build something awesome together! 💻🚀 #CodeIsLife
+I'm Damian, a passionate student of Computer Science with a love for coding and creating innovative solutions. I'm always seeking new challenges and opportunities to expand my skills in web development, machine learning and Java. When I'm not typing away on my keyboard, you can find me exploring the outdoors or diving into a great movie. Let's connect and build something awesome together! 💻🚀 #CodeIsLife
 
 My technology stack:
 - **Frontend**: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Sass, Bootstrap
