@@ -6,10 +6,10 @@ My technology stack:
 - **Frontend**: HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Sass, Bootstrap
 - **Backend**: Python, Node.js, Express.js, Flask
 - **Databases**: MongoDB, MySQL, Neo4j, T-SQL
-- **Tools & Others**: Git, GitHub, GitLab, Docker, Bash, Yarn, Npm
+- **Tools & Others**: Git, GitHub, GitLab, Docker, Bash, Yarn, Npm, Sklearn, TensorFlow, Stable Baselines 3
 
 I had some contact with:
 - **Frontend**: Tailwind
 - **Backend**: C++, PHP, Django, Go, Java, Scala
 - **Databases**: PostgreSQL
-- **Tools & Others**: Gherkin, Figma, AWS, Babel, Heroku, Sklearn, TensorFlow, MediaPipe, OpenCV
+- **Tools & Others**: Gherkin, Figma, AWS, Babel, Heroku, MediaPipe, OpenCV
